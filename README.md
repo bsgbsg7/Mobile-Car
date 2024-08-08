@@ -2,7 +2,7 @@
 
 > This project won the national first prize in the Undergraduate Intelligent Vehicle Competition🥳🥳🥳😶‍🌫️😶‍🌫️😶‍🌫️
 >
-> Team members:   🥳Zheng @ [bsgbsg7]([bsgbsg7 (Bsgbsg7) (github.com)](https://github.com/bsgbsg7))   🥳Yuxin @ [bsgbsg7]([bsgbsg7 (Bsgbsg7) (github.com)](https://github.com/bsgbsg7))  🥳Yuan @ [vegetabledogzy ]([vegetabledogzy (github.com)](https://github.com/vegetabledogzy))  🥳Liding
+> Team members:   🥳Zheng @ [bsgbsg7]([bsgbsg7 (Bsgbsg7) (github.com)](https://github.com/bsgbsg7))   🥳Yuxin @ [CYXYZ ]([CYXYZ (CSir) (github.com)](https://github.com/CYXYZ))  🥳Yuan @ [vegetabledogzy ]([vegetabledogzy (github.com)](https://github.com/vegetabledogzy))  🥳Liding
 
 <img src="README/image-20240808181421866.png" alt="image-20240808181421866" style="zoom:50%;" />
 
