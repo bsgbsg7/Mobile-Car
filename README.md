@@ -2,9 +2,11 @@
 
 > This project won the national first prize in the Undergraduate Intelligent Vehicle Competition🥳🥳🥳😶‍🌫️😶‍🌫️😶‍🌫️
 >
-> Team members:   🥳Zheng @ [bsgbsg7]([bsgbsg7 (Bsgbsg7) (github.com)](https://github.com/bsgbsg7))   🥳Yuxin @ [CYXYZ ]([CYXYZ (CSir) (github.com)](https://github.com/CYXYZ))  🥳Yuan @ [vegetabledogzy ]([vegetabledogzy (github.com)](https://github.com/vegetabledogzy))  🥳Liding
+> Team members:   🥳Zheng @ [bsgbsg7](https://github.com/bsgbsg7)   🥳Yuxin @ [CYXYZ (CSir)](https://github.com/CYXYZ)  🥳Yuan @ [vegetabledogzy](https://github.com/vegetabledogzy)  🥳Liding
 
+<center class="half">
 <img src="README/image-20240808181421866.png" alt="image-20240808181421866" style="zoom:50%;" />
+</center>
 
 ## System Overview
 
@@ -27,7 +29,7 @@
 <img src="README/image-20240808174544490.png" alt="image-20240808174544490" style="zoom:50%;" />
 
 <center class="half">
-<img src="README/image-20240808174609876.png" width="300"/><img src="README/image-20240808174648337.png" width="600"/>
+<img src="README/image-20240808174609876.png" width="300"/>
 </center>
 ## Look-ahead point determination with vehicle cruise control
 
