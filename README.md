@@ -48,8 +48,6 @@
 
 ## Dynamic obstacle avoidance and navigation based on existing maps
 
-<img src="README/image-20240808175946959.png" alt="image-20240808175946959" style="zoom:70%;" />
-
 <img src="README/image-20240808180019324.png" alt="image-20240808180019324" style="zoom:50%;" />
 
 ## Video
